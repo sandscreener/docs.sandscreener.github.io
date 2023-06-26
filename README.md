@@ -1,1 +1,3 @@
-# docs.sandscreener.github.io
+# Sandscreener Documentation
+
+Coming soon.
